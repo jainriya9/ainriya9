@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jainriya9" alt="jainriya9" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🔭 I’m currently working on **Deep Learning**
 
 - 👯 I’m looking to collaborate on **Machine Learning and WebD projects**
 
